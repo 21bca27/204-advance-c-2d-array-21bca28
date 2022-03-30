@@ -29,8 +29,8 @@ void main()
 		sacnf("%d",&n);
 		palindrome(n);
 		break;
-	case 3:
-	case 4:
+	//case 3:
+	//case 4:
 	case 5:
 		exit();
 	default:
